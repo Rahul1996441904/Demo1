@@ -6,13 +6,14 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Clarion.Maven_Project.Errorvalidation">
+      <class name="Clarion.Maven_Project.EndtoEnd">
         <methods>
           <include name="close"/>
+          <include name="order" invocation-numbers="0"/>
           <include name="initilizedriver"/>
-          <include name="order"/>
+          <include name="Orderhistorytest"/>
         </methods>
-      </class> <!-- Clarion.Maven_Project.Errorvalidation -->
+      </class> <!-- Clarion.Maven_Project.EndtoEnd -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

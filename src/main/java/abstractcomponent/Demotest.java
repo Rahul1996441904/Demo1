@@ -11,9 +11,7 @@ public class Demotest {
 		System.out.println("aaaa");
 		System.out.println("bbbb");
 		System.out.println("cccc");
-		System.out.println("dddd");
-		System.out.println("eeee");
-		System.out.println("ffff");
+	
 		
 		
 		

@@ -6,15 +6,15 @@ public class Demotest {
 		
 		//System.out.println("a");
 		
-//		<dependency>
-//  		<groupId>Test</groupId>
-//  		<artifactId>Test</artifactId>
-//  		<version>0.0.1-SNAPSHOT</version>
-//  	</dependency>
-//  	
-//  	s<?xml version="1.0" encoding="UTF-8"?>
+
 		
-		System.out.println("aaaaa");
+		System.out.println("aaaa");
+		System.out.println("bbbb");
+		System.out.println("cccc");
+		System.out.println("dddd");
+		System.out.println("eeee");
+		System.out.println("ffff");
+		
 		
 		
 		

@@ -1,12 +1,12 @@
 package pageObjects;
 
-import org.openqa.selenium.WebDriver; 
+import org.openqa.selenium.WebDriver;  
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import abstractcomponent.Abstract_comp;
-import locator.First;
+
 
 public class Landing_page extends Abstract_comp {
 	
